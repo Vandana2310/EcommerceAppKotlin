@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hp/AndroidStudioProjects/EcommerceAppKotlin/app/src/main/res/layout/activity_downloading_image.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/EcommerceAppKotlin/app/src/main/res/layout/activity_get_all_jsonobjects.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/EcommerceAppKotlin/app/src/main/res/layout/activity_main.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/EcommerceAppKotlin/app/src/main/res/layout/activity_recycler_view.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/EcommerceAppKotlin/app/src/main/res/layout/activity_show_json_object.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/EcommerceAppKotlin/app/src/main/res/layout/rv_row.xml" value="0.23333333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
